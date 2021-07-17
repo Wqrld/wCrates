@@ -1,0 +1,5 @@
+name: WCrates
+version: 1.0-SNAPSHOT
+main: net.wqrld.wcrates.WCrates
+authors: [Wqrld]
+description: a simplistic crate plugin
